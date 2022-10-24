@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "+NNvPjvrpiAKUwZ3CgFSwBZzt9l5iqs6BGNQiiS87wgmySMAlNyVFA2rLCH43d+OWguJ6mw5ItlrNlTa3T1KAg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\onepa\\source\\repos\\EventBot\\EventBot\\EventBot.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\onepa\\.nuget\\packages\\newtonsoft.json\\12.0.2\\newtonsoft.json.12.0.2.nupkg.sha512",
+    "C:\\Users\\onepa\\.nuget\\packages\\telegram.bot\\18.0.0\\telegram.bot.18.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
